@@ -1,0 +1,10 @@
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\bin\Debug\camion.exe
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\bin\Debug\camion.pdb
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\bin\Debug\ClassLibrary1.dll
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\bin\Debug\ClassLibrary1.pdb
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\obj\x86\Debug\camion.Form1.resources
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\obj\x86\Debug\camion.Properties.Resources.resources
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\obj\x86\Debug\camion.csproj.GenerateResource.Cache
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\obj\x86\Debug\camion.exe
+c:\users\victoria\documents\visual studio 2010\Projects\camion\camion\obj\x86\Debug\camion.pdb
+C:\Users\Victoria\Documents\Visual Studio 2010\Projects\camion\camion\obj\x86\Debug\camion.csprojResolveAssemblyReference.cache
